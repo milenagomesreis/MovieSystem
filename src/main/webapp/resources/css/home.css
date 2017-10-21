@@ -1,0 +1,12 @@
+.container-fluid{
+      height: 100vh;
+}
+
+.full-height{
+    height: calc(100vh - 70px);
+}
+
+.center{
+    display: flex;
+    align-items: center;
+}
